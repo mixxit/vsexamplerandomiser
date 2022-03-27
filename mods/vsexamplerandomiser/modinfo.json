@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "vsexamplerandomiser",
+  "name": "vsexamplerandomiser",
+  "authors": ["Unknown"],
+  "description": "To be added",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}

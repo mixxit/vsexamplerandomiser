@@ -1,0 +1,11 @@
+[
+    {
+        "op": "add",
+        "path": "/server/behaviors/-",
+        "value": {
+            "code": "EntityBehaviorRandomHp"
+        },
+        "file": "entities/land/*",
+        "side": "Server"
+    }
+]
